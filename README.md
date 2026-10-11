@@ -1,2 +1,2 @@
 # csr-prog
-Curso de programação.
+projeto de Curso de programação.
